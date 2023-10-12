@@ -1,0 +1,11 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    scroll-behavior: smooth;
+    background: rgb(222, 225, 221);
+    background: linear-gradient(
+    90deg,
+    #dee1dd 0%,
+    #99adac 35%,
+    rgba(109, 145, 151, 1) 100%
+    )
+}
